@@ -1,0 +1,565 @@
+{
+    "movieDetails": [
+        {
+            "title": "唐人街探案2",
+            "tag": "喜剧 / 动作 / 犯罪",
+            "act": "陈思诚 王宝强 刘昊然 肖央 刘承羽 ",
+            "year": "2018-02-16 大陆上映/121分钟",
+            "dir": "陈思诚",
+            "desc": "唐仁（王宝强 饰）为巨额奖金欺骗秦风（刘昊然 饰）到纽约参加世界名侦探大赛，然而随着和世界各国侦探们啼笑皆非的较量，两人却发现了隐藏在这次挑战背后的更大秘密...",
+            "cover": "/moviePictures/tangrenjietanan.png",
+            "act_s": [
+                {
+                    "name": "陈思诚",
+                    "shi" : null ,
+                    "image": "/moviePictures/tangrenjietanan1.png"
+                },
+                {
+                    "name": "王宝强",
+                    "shi" : "唐仁" ,
+                    "image": "/moviePictures/tangrenjietanan2.png"
+                },
+                {
+                    "name": "刘昊然",
+                    "shi" : "秦风" ,
+                    "image": "/moviePictures/tangrenjietanan3.png"
+                },
+                {
+                    "name": "肖央",
+                    "shi" : "宋义" ,
+                    "image": "/moviePictures/tangrenjietanan4.png"
+                },
+                {
+                    "name": "刘承羽",
+                    "shi" : "陈英" ,
+                    "image": "/moviePictures/tangrenjietanan5.png"
+                }
+            ],
+            "comment":[
+                {
+                    "name": "千亿有理",
+                    "txt" : "周冬雨不会适应后，校色抱我游刃有余，儿一样钱徐泽给我很大的惊喜，他不是我印象中德国盖头男孩了，眼神很有内容。影片很棒，主题很好。" ,
+                    "image": "/moviePictures/tangrenjietanan1.png",
+                    "zan" : 100
+                },
+                {
+                    "name": "浅笑安然",
+                    "txt" : "电影太精彩了，我都要哭死了。。。。" ,
+                    "image": "/moviePictures/tangrenjietanan3.png",
+                    "zan" : 100
+                },
+                {
+                    "name": "明明这就是爱",
+                    "txt" : "都给我看！！！！！俩主演是要我明码！！！希望校园欺凌领不要再发生了" ,
+                    "image": "/moviePictures/tangrenjietanan5.png",
+                    "zan" : 100
+                }
+            ]
+
+        },
+        {
+            "title": "哪吒之魔童降世",
+            "tag": "剧情 / 喜剧 / 动画",
+            "act": "饺子 吕艳婷 囧森瑟夫 瀚墨 陈浩 ",
+            "year": "2019-07-26 08:00 大陆上映/110分钟",
+            "dir": "饺子",
+            "desc": "天地灵气孕育出一颗能量巨大的混元珠，元始天尊将混元珠提炼成灵珠和魔丸，灵珠投胎为人，助周伐纣时可堪大用；而魔丸则会诞出魔王，为祸人间。元始天尊启动了天劫咒语，3年后天雷将会降临，摧毁魔丸。太乙受命将灵珠托生于陈塘关李靖家的儿子哪吒身上。然而阴差阳错，灵珠和魔丸竟然被掉包。本应是灵珠英雄的哪吒却成了混世大魔王。调皮捣蛋顽劣不堪的哪吒却徒有一颗做英雄的心。然而面对众人对魔丸的误解和即将来临的天雷的降临，哪吒是否命中注定会立地成魔？他将何去何从？",
+            "cover": "/moviePictures/nezha.png",
+            "act_s": [
+                {
+                    "name": "饺子",
+                    "shi" : null ,
+                    "image": "/moviePictures/nezha1.png"
+                },
+                {
+                    "name": "吕艳婷",
+                    "shi" : "儿童哪吒" ,
+                    "image": "/moviePictures/nezha2.png"
+                },
+                {
+                    "name": "囧森瑟夫",
+                    "shi" : "少年哪吒" ,
+                    "image": "/moviePictures/nezha3.png"
+                },
+                {
+                    "name": "瀚墨",
+                    "shi" : "敖丙" ,
+                    "image": "/moviePictures/nezha4.png"
+                },
+                {
+                    "name": "陈浩",
+                    "shi" : "李靖" ,
+                    "image": "/moviePictures/nezha5.png"
+                }
+            ],
+            "comment":[
+                {
+                    "name": "千亿有理",
+                    "txt" : "周冬雨不会适应后，校色抱我游刃有余，儿一样钱徐泽给我很大的惊喜，他不是我印象中德国盖头男孩了，眼神很有内容。影片很棒，主题很好。" ,
+                    "image": "/moviePictures/nezha3.png",
+                    "zan" : 100
+                },
+                {
+                    "name": "浅笑安然",
+                    "txt" : "电影太精彩了，我都要哭死了。。。。" ,
+                    "image": "/moviePictures/nezha1.png",
+                    "zan" : 200
+                },
+                {
+                    "name": "明明这就是爱",
+                    "txt" : "都给我看！！！！！俩主演是要我明码！！！希望校园欺凌领不要再发生了" ,
+                    "image": "/moviePictures/nezha5.png",
+                    "zan" : 300
+                }
+            ]
+
+        },{
+            "title": "使徒行者2",
+            "tag": "剧情 / 动作 / 犯罪",
+            "act": "文伟鸿 张家辉 古天乐 吴镇宇 姜珮瑶 ",
+            "year": "2019-08-07 大陆上映/98分钟",
+            "dir": "文伟鸿",
+            "desc": "童年兄弟意外失散，30年后因一桩罪案相见，两人已身处不同阵营。随着对罪案调查的深入，一个多年来隐于幕后的恐怖组织渐渐浮出水面。",
+            "cover": "/moviePictures/shituxingzhe.png",
+            "act_s": [
+                {
+                    "name": "文伟鸿",
+                    "shi" : null ,
+                    "image": "/moviePictures/shituxingzhe1.png"
+                },
+                {
+                    "name": "张家辉",
+                    "shi" : "程滔" ,
+                    "image": "/moviePictures/shituxingzhe2.png"
+                },
+                {
+                    "name": "古天乐",
+                    "shi" : "井进贤" ,
+                    "image": "/moviePictures/shituxingzhe3.png"
+                },
+                {
+                    "name": "吴镇宇",
+                    "shi" : "叶国凡" ,
+                    "image": "/moviePictures/shituxingzhe4.png"
+                },
+                {
+                    "name": "姜珮瑶",
+                    "shi" : "姚克懿" ,
+                    "image": "/moviePictures/shituxingzhe5.png"
+                }
+            ],
+            "comment":[
+                {
+                    "name": "千亿有理",
+                    "txt" : "周冬雨不会适应后，校色抱我游刃有余，儿一样钱徐泽给我很大的惊喜，他不是我印象中德国盖头男孩了，眼神很有内容。影片很棒，主题很好。" ,
+                    "image": "/moviePictures/shituxingzhe3.png",
+                    "zan" : 50
+                },
+                {
+                    "name": "浅笑安然",
+                    "txt" : "电影太精彩了，我都要哭死了。。。。" ,
+                    "image": "/moviePictures/shituxingzhe5.png",
+                    "zan" : 700
+                },
+                {
+                    "name": "明明这就是爱",
+                    "txt" : "都给我看！！！！！俩主演是要我明码！！！希望校园欺凌领不要再发生了" ,
+                    "image": "/moviePictures/shituxingzhe1.png",
+                    "zan" : 1000
+                }
+            ]
+
+        },{
+            "title": "一条狗的使命",
+            "tag": "剧情 / 喜剧 / 家庭",
+            "act": "拉斯·霍尔斯道姆 布丽特·罗伯森 丹尼斯·奎德 佩吉·利普顿 乔什·加德 ",
+            "year": "2017-03-03 美国/101分钟",
+            "dir": "拉斯·霍尔斯道姆",
+            "desc": "影片以汪星人的视角展现狗狗和人类的微妙情感，一只狗狗陪伴小主人长大成人，甚至为他追到了女朋友，后来它年迈死去又转世投胎变成其他性别和类型的汪，第二次轮回狗狗变成了警犬威风凛凛，再次转轮回，又成了陪伴一位单身女青年的小柯基犬。在经历了多次轮回之后，最终回到最初的主人身边。",
+            "cover": "/moviePictures/ytgdsm.png",
+            "act_s": [
+                {
+                    "name": "拉斯·霍尔斯道姆",
+                    "shi" : null ,
+                    "image": "/moviePictures/ytgdsm1.png"
+                },
+                {
+                    "name": "布丽特·罗伯森",
+                    "shi" : "年轻版汉娜" ,
+                    "image": "/moviePictures/ytgdsm2.png"
+                },
+                {
+                    "name": "丹尼斯·奎德",
+                    "shi" : "巴利" ,
+                    "image": "/moviePictures/ytgdsm3.png"
+                },
+                {
+                    "name": "佩吉·利普顿",
+                    "shi" : "年老伊森" ,
+                    "image": "/moviePictures/ytgdsm4.png"
+                },
+                {
+                    "name": "乔什·加德",
+                    "shi" : "年老汉娜" ,
+                    "image": "/moviePictures/ytgdsm5.png"
+                }
+            ],
+            "comment":[
+                {
+                    "name": "千亿有理",
+                    "txt" : "周冬雨不会适应后，校色抱我游刃有余，儿一样钱徐泽给我很大的惊喜，他不是我印象中德国盖头男孩了，眼神很有内容。影片很棒，主题很好。" ,
+                    "image": "/moviePictures/ytgdsm2.png",
+                    "zan" : 1000
+                },
+                {
+                    "name": "浅笑安然",
+                    "txt" : "电影太精彩了，我都要哭死了。。。。" ,
+                    "image": "/moviePictures/ytgdsm4.png",
+                    "zan" : 1000
+                },
+                {
+                    "name": "明明这就是爱",
+                    "txt" : "都给我看！！！！！俩主演是要我明码！！！希望校园欺凌领不要再发生了" ,
+                    "image": "/moviePictures/ytgdsm3.png",
+                    "zan" : 1000
+                }
+            ]
+
+        },{
+            "title": "大侦探皮卡丘",
+            "tag": "喜剧 / 动画 / 奇幻 / 剧情",
+            "act": "罗伯·莱特曼 瑞恩·雷诺兹 贾斯蒂斯·史密斯 凯瑟琳·纽顿 克里斯·吉尔 ",
+            "year": "2019-05-10 美国/104分钟",
+            "dir": "罗伯·莱特曼",
+            "desc": "好莱坞真人电影《大侦探皮卡丘》（暂译）讲述了蒂姆·古德曼（贾 斯 提·史密斯饰） 为寻找下落不明的父亲来到莱姆市，意外与父亲的前宝可梦搭档大侦探皮卡丘相遇，并惊讶地发现自己是唯一能听懂皮卡丘说话的人类，他们决定组队踏上揭开真相的刺激冒险之路。探案过程中他们邂逅了各式各样 的宝可梦，并意外发现了一个足以毁灭整个宝可梦宇宙的惊天阴谋。该电影改编自任天堂3DS同名游戏，由罗伯·莱特曼导演，瑞安·雷诺兹为大侦探皮卡丘配音，贾斯提斯·史密斯、凯瑟琳·纽顿等主演。",
+            "cover": "/moviePictures/pikaqiu.png",
+            "act_s": [
+                {
+                    "name": "罗伯·莱特曼",
+                    "shi" : null ,
+                    "image": "/moviePictures/pikaqiu1.png"
+                },
+                {
+                    "name": "瑞恩·雷诺兹",
+                    "shi" : "大侦探皮卡丘" ,
+                    "image": "/moviePictures/pikaqiu2.png"
+                },
+                {
+                    "name": "贾斯蒂斯·史密斯",
+                    "shi" : "蒂姆·古德曼" ,
+                    "image": "/moviePictures/pikaqiu3.png"
+                },
+                {
+                    "name": "凯瑟琳·纽顿",
+                    "shi" : "露西" ,
+                    "image": "/moviePictures/pikaqiu4.png"
+                },
+                {
+                    "name": "克里斯·吉尔",
+                    "shi" : "罗杰" ,
+                    "image": "/moviePictures/pikaqiu5.png"
+                }
+            ],
+            "comment":[
+                {
+                    "name": "千亿有理",
+                    "txt" : "周冬雨不会适应后，校色抱我游刃有余，儿一样钱徐泽给我很大的惊喜，他不是我印象中德国盖头男孩了，眼神很有内容。影片很棒，主题很好。" ,
+                    "image": "/moviePictures/pikaqiu2.png",
+                    "zan" : 1000
+                },
+                {
+                    "name": "浅笑安然",
+                    "txt" : "电影太精彩了，我都要哭死了。。。。" ,
+                    "image": "/moviePictures/pikaqiu3.png",
+                    "zan" : 1000
+                },
+                {
+                    "name": "明明这就是爱",
+                    "txt" : "都给我看！！！！！俩主演是要我明码！！！希望校园欺凌领不要再发生了" ,
+                    "image": "/moviePictures/pikaqiu1.png",
+                    "zan" : 1000
+                }
+            ]
+
+        },{
+            "title": "西虹市首富",
+            "tag": "喜剧",
+            "act": "闫非 彭大魔 沈腾 宋芸桦 张一鸣 ",
+            "year": "2018-07-27 大陆上映/118分钟",
+            "dir": "闫非 / 彭大魔",
+            "desc": "西虹市丙级球队大翔队的守门员王多鱼（沈腾 饰）因比赛失利被教练开除，一筹莫展之际王多鱼突然收到神秘人士金老板（张晨光 饰）的邀请，被告知自己竟然是保险大亨王老太爷（李立群 饰）的唯一继承人，遗产高达百亿！但是王老太爷给出了一个非常奇葩的条件，那就是要求王多鱼在一个月内花光十亿，还不能告诉身边人，否则失去继承权。王多鱼毫不犹豫签下了“军令状”，与好友庄强（张一鸣 饰）以及财务夏竹（宋芸桦 饰）一起开启了“挥金之旅”，即将成为西虹市首富的王多鱼，第一次感受到了做富人的快乐，同时也发现想要挥金如土实在没有那么简单！",
+            "cover": "/moviePictures/xihongshishoufu.png",
+            "act_s": [
+                {
+                    "name": "闫非",
+                    "shi" : null ,
+                    "image": "/moviePictures/xihongshishoufu1.png"
+                },
+                {
+                    "name": "彭大魔",
+                    "shi" : null ,
+                    "image": "/moviePictures/xihongshishoufu2.png"
+                },
+                {
+                    "name": "沈腾",
+                    "shi" : "王多鱼" ,
+                    "image": "/moviePictures/xihongshishoufu3.png"
+                },
+                {
+                    "name": "宋芸桦",
+                    "shi" : "夏竹" ,
+                    "image": "/moviePictures/xihongshishoufu4.png"
+                },
+                {
+                    "name": "张一鸣",
+                    "shi" : "庄强" ,
+                    "image": "/moviePictures/xihongshishoufu5.png"
+                }
+            ],
+            "comment":[
+                {
+                    "name": "千亿有理",
+                    "txt" : "周冬雨不会适应后，校色抱我游刃有余，儿一样钱徐泽给我很大的惊喜，他不是我印象中德国盖头男孩了，眼神很有内容。影片很棒，主题很好。" ,
+                    "image": "/moviePictures/xihongshishoufu1.png",
+                    "zan" : 1000
+                },
+                {
+                    "name": "浅笑安然",
+                    "txt" : "电影太精彩了，我都要哭死了。。。。" ,
+                    "image": "/moviePictures/xihongshishoufu3.png",
+                    "zan" : 1000
+                },
+                {
+                    "name": "明明这就是爱",
+                    "txt" : "都给我看！！！！！俩主演是要我明码！！！希望校园欺凌领不要再发生了" ,
+                    "image": "/moviePictures/xihongshishoufu5.png",
+                    "zan" : 1000
+                }
+            ]
+
+        },{
+            "title": "鼠胆英雄",
+            "tag": "喜剧 ",
+            "act": "束焕 邵丹 岳云鹏 佟丽娅 田雨 ",
+            "year": "2019-08-02 大陆上映/106分钟",
+            "dir": "束焕 / 邵丹",
+            "desc": "三十年代的上海滩，胆小如鼠的青龙帮小弟闫大海发现自己身患绝症之际，竟阴差阳错当上了警察。为了给梦中女神--飞乐门舞女杜卿挣赎身钱，他计划在自己生命中所剩不多的时间里因公殉职，从而拿到抚恤金拯救女神。然而，在他疯狂执行铲除“黑帮”、“毒枭”任务以身赴死期间，却总是事与愿违求死不得死，反而得到屡屡升迁。然而，纸醉金迷的上海滩，还隐藏着更大的危机……",
+            "cover": "/moviePictures/shudanyingxiong.png",
+            "act_s": [
+                {
+                    "name": "束焕",
+                    "shi" : null ,
+                    "image": "/moviePictures/shudanyingxiong1.png"
+                },
+                {
+                    "name": "邵丹",
+                    "shi" : null ,
+                    "image": "/moviePictures/shudanyingxiong2.png"
+                },
+                {
+                    "name": "岳云鹏",
+                    "shi" : "闫大海" ,
+                    "image": "/moviePictures/shudanyingxiong3.png"
+                },
+                {
+                    "name": "佟丽娅",
+                    "shi" : "杜卿" ,
+                    "image": "/moviePictures/shudanyingxiong4.png"
+                },
+                {
+                    "name": "田雨",
+                    "shi" : "赵瀚青" ,
+                    "image": "/moviePictures/shudanyingxiong5.png"
+                }
+            ],
+            "comment":[
+                {
+                    "name": "千亿有理",
+                    "txt" : "周冬雨不会适应后，校色抱我游刃有余，儿一样钱徐泽给我很大的惊喜，他不是我印象中德国盖头男孩了，眼神很有内容。影片很棒，主题很好。" ,
+                    "image": "/moviePictures/shudanyingxiong1.png",
+                    "zan" : 1000
+                },
+                {
+                    "name": "浅笑安然",
+                    "txt" : "电影太精彩了，我都要哭死了。。。。" ,
+                    "image": "/moviePictures/shudanyingxiong2.png",
+                    "zan" : 1000
+                },
+                {
+                    "name": "明明这就是爱",
+                    "txt" : "都给我看！！！！！俩主演是要我明码！！！希望校园欺凌领不要再发生了" ,
+                    "image": "/moviePictures/shudanyingxiong4.png",
+                    "zan" : 1000
+                }
+            ]
+
+        },{
+            "title": "红海行动",
+            "tag": "动作 / 战争",
+            "act": "林超贤 张译 黄景瑜 海清 杜江",
+            "year": "2018-02-16 大陆上映/138分钟",
+            "dir": "林超贤",
+            "desc": "索马里海域外，中国商船遭遇劫持，船员全数沦为阶下囚。蛟龙突击队沉着应对，潜入商船进行突袭，成功解救全部人质。\r\n返航途中，非洲北部伊维亚共和国发生政变，恐怖组织连同叛军攻入首都， 当地华侨面临危险，海军战舰接到上级命令改变航向，前往执行撤侨任务。蛟龙突击队八人，整装待发。\r\n时间紧迫，在“撤侨遇袭可反击，相反则必须避免交火，以免引起外交冲突”的大原则下，海军战舰及蛟龙突击队深入伊维亚，在恶劣的环境之下，借助海陆等多种装备，成功转移等候在码头的中国侨民，并在激烈的遭遇战之后，营救了被恐怖分子追击的中国领事馆巴士。\r\n然而事情尚未完结，就在掩护华侨撤离之际，蛟龙突击队收到中国人质被恐怖分子劫持的消息。众人深感责任重大，义无反顾地再度展开营救行动。前方路途险恶，蛟龙突击队即将遭遇的，远不止人质营救那么简单,恐怖分子的惊天阴谋即将浮出水面…..",
+            "cover": "/moviePictures/honghai.png",
+            "act_s": [
+                {
+                    "name": "林超贤",
+                    "shi" : null ,
+                    "image": "/moviePictures/honghai1.png"
+                },
+                {
+                    "name": "张译",
+                    "shi" : "杨锐" ,
+                    "image": "/moviePictures/honghai2.png"
+                },
+                {
+                    "name": "黄景瑜",
+                    "shi" : "顾顺" ,
+                    "image": "/moviePictures/honghai3.png"
+                },
+                {
+                    "name": "海清",
+                    "shi" : "夏楠" ,
+                    "image": "/moviePictures/honghai4.png"
+                },
+                {
+                    "name": "杜江",
+                    "shi" : "徐宏" ,
+                    "image": "/moviePictures/honghai5.png"
+                }
+            ],
+            "comment":[
+                {
+                    "name": "千亿有理",
+                    "txt" : "周冬雨不会适应后，校色抱我游刃有余，儿一样钱徐泽给我很大的惊喜，他不是我印象中德国盖头男孩了，眼神很有内容。影片很棒，主题很好。" ,
+                    "image": "/moviePictures/honghai2.png",
+                    "zan" : 1000
+                },
+                {
+                    "name": "浅笑安然",
+                    "txt" : "电影太精彩了，我都要哭死了。。。。" ,
+                    "image": "/moviePictures/honghai5.png",
+                    "zan" : 1000
+                },
+                {
+                    "name": "明明这就是爱",
+                    "txt" : "都给我看！！！！！俩主演是要我明码！！！希望校园欺凌领不要再发生了" ,
+                    "image": "/moviePictures/honghai3.png",
+                    "zan" : 1000
+                }
+            ]
+
+        },{
+            "title": "流浪地球",
+            "tag": "科幻",
+            "act": "郭帆 吴京 屈楚萧 李光洁 吴孟达",
+            "year": "2019-02-05 大陆上映/125分钟",
+            "dir": "郭帆",
+            "desc": "近未来，科学家们发现太阳急速衰老膨胀，短时间内包括地球在内的整个太阳系都将被太阳所吞没。为了自救，人类提出一个名为“流浪地球”的大胆计划，即倾全球之力在地球表面建造上万座发动机和转向发动机，推动地球离开太阳系，用2500年的时间奔往另外一个栖息之地。中国航天员刘培强（吴京 饰）在儿子刘启四岁那年前往国际空间站，和国际同侪肩负起领航者的重任。转眼刘启（屈楚萧 饰）长大，他带着妹妹朵朵（赵今麦 饰）偷偷跑到地表，偷开外公韩子昂（吴孟达 饰）的运输车，结果不仅遭到逮捕，还遭遇了全球发动机停摆的事件。为了修好发动机，阻止地球坠入木星，全球开始展开饱和式营救，连刘启他们的车也被强征加入。在与时间赛跑的过程中，无数的人前仆后继，奋不顾身，只为延续百代子孙生存的希望……\r\n本片根据刘慈欣的同名小说改编。",
+            "cover": "/moviePictures/liulang.png",
+            "act_s": [
+                {
+                    "name": "郭帆",
+                    "shi" : null ,
+                    "image": "/moviePictures/liulang1.png"
+                },
+                {
+                    "name": "吴京",
+                    "shi" : "刘培强" ,
+                    "image": "/moviePictures/liulang2.png"
+                },
+                {
+                    "name": "屈楚萧",
+                    "shi" : "刘启" ,
+                    "image": "/moviePictures/liulang3.png"
+                },
+                {
+                    "name": "李光洁",
+                    "shi" : "王磊" ,
+                    "image": "/moviePictures/liulang4.png"
+                },
+                {
+                    "name": "吴孟达",
+                    "shi" : "韩子昂" ,
+                    "image": "/moviePictures/liulang5.png"
+                }
+            ],
+            "comment":[
+                {
+                    "name": "千亿有理",
+                    "txt" : "周冬雨不会适应后，校色抱我游刃有余，儿一样钱徐泽给我很大的惊喜，他不是我印象中德国盖头男孩了，眼神很有内容。影片很棒，主题很好。" ,
+                    "image": "/moviePictures/liulang2.png",
+                    "zan" : 1000
+                },
+                {
+                    "name": "浅笑安然",
+                    "txt" : "电影太精彩了，我都要哭死了。。。。" ,
+                    "image": "/moviePictures/liulang4.png",
+                    "zan" : 1000
+                },
+                {
+                    "name": "明明这就是爱",
+                    "txt" : "都给我看！！！！！俩主演是要我明码！！！希望校园欺凌领不要再发生了" ,
+                    "image": "/moviePictures/liulang1.png",
+                    "zan" : 1000
+                }
+            ]
+
+        },{
+            "title": "我不是药神",
+            "tag": "剧情 / 喜剧",
+            "act": "文牧野 徐峥 周一围 王传君 谭卓 ",
+            "year": "2018-07-05 大陆上映/116分钟",
+            "dir": "文牧野",
+            "desc": "普通中年男子程勇（徐峥 饰）经营着一家保健品店，失意又失婚。不速之客吕受益（王传君 饰）的到来，让他开辟了一条去印度买药做“代购”的新事业，虽然困难重重，但他在这条“买药之路”上发现了商机，一发不可收拾地做起了治疗慢粒白血病的印度仿制药独家代理商。赚钱的同时，他也认识了几个病患及家属，为救女儿被迫做舞女的思慧（谭卓 饰）、说一口流利“神父腔”英语的刘牧师（杨新鸣 饰），以及脾气暴烈的“黄毛”（章宇 饰），几个人合伙做起了生意，利润倍增的同时也危机四伏。程勇昔日的小舅子曹警官（周一围 饰）奉命调查仿制药的源头，假药贩子张长林（王砚辉 饰）和瑞士正牌医药代表（李乃文 饰）也对其虎视眈眈，生意逐渐变成了一场关于救赎的拉锯战。\n本片改编自慢粒白血病患者陆勇代购抗癌药的真实事迹。",
+            "cover": "/moviePictures/wobushiyaoshen.png",
+            "act_s": [
+                {
+                    "name": "文牧野",
+                    "shi" : null ,
+                    "image": "/moviePictures/wobushiyaoshen1.png"
+                },
+                {
+                    "name": "徐峥",
+                    "shi" : "程勇" ,
+                    "image": "/moviePictures/wobushiyaoshen2.png"
+                },
+                {
+                    "name": "周一围",
+                    "shi" : "曹斌" ,
+                    "image": "/moviePictures/wobushiyaoshen3.png"
+                },
+                {
+                    "name": "王传君",
+                    "shi" : "吕受益" ,
+                    "image": "/moviePictures/wobushiyaoshen4.png"
+                },
+                {
+                    "name": "谭卓",
+                    "shi" : "刘思慧" ,
+                    "image": "/moviePictures/wobushiyaoshen5.png"
+                }
+            ],
+            "comment":[
+                {
+                    "name": "千亿有理",
+                    "txt" : "周冬雨不会适应后，校色抱我游刃有余，儿一样钱徐泽给我很大的惊喜，他不是我印象中德国盖头男孩了，眼神很有内容。影片很棒，主题很好。" ,
+                    "image": "/moviePictures/wobushiyaoshen2.png",
+                    "zan" : 1000
+                },
+                {
+                    "name": "浅笑安然",
+                    "txt" : "电影太精彩了，我都要哭死了。。。。" ,
+                    "image": "/moviePictures/wobushiyaoshen1.png",
+                    "zan" : 1000
+                },
+                {
+                    "name": "明明这就是爱",
+                    "txt" : "都给我看！！！！！俩主演是要我明码！！！希望校园欺凌领不要再发生了" ,
+                    "image": "/moviePictures/wobushiyaoshen4.png",
+                    "zan" : 1000
+                }
+            ]
+        }
+    ]
+}

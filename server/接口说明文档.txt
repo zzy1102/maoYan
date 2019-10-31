@@ -1,0 +1,49 @@
+服务器电脑ip  172.16.142.45:3000
+
+版本更新1.0，功能说明：电影详情、影院首页/详情、定位
+
+电影详情   路由接口  /getFilm
+	电影对象	movieDetails
+		电影名	title
+		类型	tag
+		演员	act
+		时间	year
+		导演	dir
+		影片简介	desc
+		标题图片	cover
+		演员对象	act_s
+			演员名  name
+			饰演角色	shi
+			演员图片	image
+		评论对象  comment
+			名字  name
+			评论文本  txt
+			图片  image
+			点赞  zan
+
+影院详情   路由接口  /getCinema
+	影院对象	cinema
+		影院名	title
+		影院地址	address
+		起步价	price
+		标签	Keyword
+		卡	ka
+		惠 hui
+		详情	details
+			影片	films
+				电影名	name
+				评分	score
+				时长、演员	zhuyan
+				场次	scenes
+					日期（今明后）	time
+					时间	times
+						开场时间	kaichang	
+						结束时间	sanchang
+						语言	yuyan
+						厅	ting
+						价格	money
+
+定位	路由接口  /getCity
+
+搜索	路由接口  /search
+
